@@ -1,0 +1,35 @@
+.bulle-icone.rouge 
+{
+    background-color: red;
+}
+
+.bulle-icone-bordure.rouge 
+{
+    background-color: #A50253;
+}
+
+.medtext
+{
+    color: #707070;
+    font-size: 2rem;
+    margin-bottom: 17px;
+    margin-top: 54.86px;
+    text-align: center;
+}
+
+.liste-video
+{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 100px;
+}
+
+.video-conteneur
+{
+    flex: 50%;
+    text-align: center;
+}
+
+
+
+

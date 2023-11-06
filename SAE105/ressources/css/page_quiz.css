@@ -1,0 +1,23 @@
+.boutton {
+    width: 170px;
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: #8a2be2;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 6px 6px 2px 1px rgba(0, 0, 255, .2);
+}
+
+.boutton:hover{
+    background-color: #581b92;
+}
+.textesgras{
+    padding:0.5em;
+    line-height:1.5;
+    font-weight:bold;
+
+    
+}

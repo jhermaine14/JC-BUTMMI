@@ -1,0 +1,62 @@
+.bulle-icone.jaune {
+    background-color: #FFE700;
+  }
+
+.bulle-icone-bordure {
+    background-color: #EE8F00;
+  }
+
+
+.textesgras{
+padding:0.5em;
+line-height:1.5;
+font-weight:bold;
+text-align:center; 
+
+
+}
+
+.textes{
+  padding:0.5em;
+  line-height:1.5;
+  margin-bottom: 1.5rem;
+  
+  }
+.bouton{
+background-color: blue;
+color:aliceblue ;
+margin-bottom: 1.25rem;
+margin-top: 1.25rem;
+font-size: x-large;
+
+}
+
+.contactez-nous{
+  
+
+margin-bottom: 3rem;
+}
+
+.contact-ligne {
+   font-weight: bold;
+   font-size: 1.3rem;
+   
+}
+
+.contact-ligne .titre-formulaire {
+  margin-bottom: 1.5rem;
+}
+
+.adresse {
+  text-align:left
+}
+.cadre-bouton{
+ margin-bottom: 1rem;
+  padding: 1rem;
+  width: 290px;
+  background-color: blue;
+  color:aliceblue ;
+  font-weight:bold;
+
+
+}

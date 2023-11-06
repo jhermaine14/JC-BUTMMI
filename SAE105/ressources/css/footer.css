@@ -1,0 +1,33 @@
+footer {
+    
+    margin-top: 145px;
+    margin-bottom: 123.45px;
+    font-size: 1.25rem;
+    text-align: center;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color : #707070;
+}
+
+.foottext 
+{
+    padding: 8px; ;
+}
+
+.footlien, .footlien:visited {
+    color: #0066FF;
+}
+
+.foottop, .foottop:visited
+{
+    color : #707070;
+}
+
+.cr
+{
+    margin-top: 20px;
+}
+
+.logo
+{
+    margin-top: 45.71px;
+}
